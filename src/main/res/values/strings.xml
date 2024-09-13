@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Placeholder</string>
+    <string name="about_us">Lorem ipsum dolor sit amet, consectetur adipiscing elit. \n
+        Nulla sit amet dapibus justo, vel euismod dui. \n
+        Sed in convallis magna. Duis non sem purus.\n
+        Sed nibh ipsum, rhoncus a blandit eu, hendrerit sit amet neque. \n
+        Sed ultricies massa metus, sit amet rhoncus magna bibendum non.\n
+        Integer vehicula tortor nibh, a hendrerit tortor elementum quis. \n
+        Nullam volutpat enim et varius faucibus. \n
+        Quisque consequat lacinia efficitur. </string>
+</resources>
